@@ -1,0 +1,8 @@
+# Think of your favorite mode of transportation, such as a
+# motorcycle or a car, and make a list that stores several examples. Use your list
+# to print a series of statements about these items, such as “I would like to own a
+# Honda motorcycle.”
+
+my_own_list = ["Skoda Superb", "Bicycle"]
+print("I would like to own a " + my_own_list[0])
+print("I would like to own a " + my_own_list[-1])
